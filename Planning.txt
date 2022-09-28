@@ -1,0 +1,5 @@
+1. Red green blue components
+2. Edge detection + overlap
+3. Gray scale
+4. DTFT + IDTF
+5. Filter
